@@ -1,0 +1,12 @@
+Apple:1445566
+Orange:null
+Watermelon:1456677
+Beans:1785533
+Soup:1996423
+Chips:2366982
+Milk:2455669
+Cornflakes:2566847
+Jam:2788665
+Ketchup:2845568
+Yoghurt:2945688
+Blender:3551144
